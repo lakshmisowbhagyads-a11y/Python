@@ -44,4 +44,5 @@ print("{} is None:", {} is None)
 print("() is None:", () is None)
 
 # Question 10: Check if set() is None
+
 print("set() is None:", set() is None)
